@@ -1,6 +1,6 @@
 # Dynamic Tooltip React App
 
-** Github Page Link **
+**Github Page Link**
 https://himavarshithreddy.github.io/dynamic-tooltip/
 
 ![Screenshot](screenshot.png)
