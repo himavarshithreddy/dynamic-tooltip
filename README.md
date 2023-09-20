@@ -31,5 +31,5 @@ This is a React application that allows users to create and customize tooltips f
 
 ## Author
 
-Himavarshith Reddy
+**Himavarshith Reddy**
 
