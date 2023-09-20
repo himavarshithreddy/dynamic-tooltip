@@ -1,5 +1,6 @@
-# Custom Tooltip React App
+# Dynamic Tooltip React App
 
+![Screenshot](screenshot.png)
 
 ## Description
 
