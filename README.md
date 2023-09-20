@@ -14,3 +14,21 @@ This is a React application that allows users to create and customize tooltips f
 - **Image Upload**: Upload custom images to be displayed within tooltips.
 
 
+ ## Usage
+
+- Select a button from the dropdown to customize its tooltip.
+  
+- -Modify the tooltip settings using the input fields and dropdowns.
+  
+- -To upload an image for the tooltip, use the "Upload an Image" button.
+
+  
+## Acknowledgments
+
+- This project was created as a learning exercise for React state management and user interfaces.
+
+
+## Author
+
+Himavarshith Reddy
+
